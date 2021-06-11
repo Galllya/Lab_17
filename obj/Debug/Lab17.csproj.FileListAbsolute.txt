@@ -1,0 +1,10 @@
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\bin\Debug\Lab17.exe.config
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\bin\Debug\Lab17.exe
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\bin\Debug\Lab17.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\obj\Debug\Lab17.Form1.resources
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\obj\Debug\Lab17.Properties.Resources.resources
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\obj\Debug\Lab17.csproj.GenerateResource.cache
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\obj\Debug\Lab17.exe
+C:\Users\bolga\OneDrive\Рабочий стол\lab17\Lab17\obj\Debug\Lab17.pdb
